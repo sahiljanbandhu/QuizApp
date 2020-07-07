@@ -11,6 +11,12 @@
 - quiz.py : Contain logic and code
 - quiz.db : It an database file contain username, password & question, answer
 
+Module Used
+GUI Module Used : Tkinter
+
+For external libraries :
+pip install pygame
+
 ### Screenshot:
 1. Main Screen
 
